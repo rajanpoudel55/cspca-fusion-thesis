@@ -1,0 +1,15 @@
+# Versions used for the thesis results (Python 3.11.15, macOS arm64, Apple M3). Report produced by 00_environment_report.py.
+numpy==1.26.4
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.9.0
+xgboost==3.2.0
+tensorflow==2.16.2
+keras==3.15.0
+SimpleITK==2.5.5
+pydicom==3.0.2
+opencv-python>=4.9.0,<4.10      # cv2 4.9.0 was used; the exact wheel build was not recorded
+matplotlib==3.11.1
+pillow==12.3.0
+imbalanced-learn==0.14.2
+# tensorflow-metal (Apple GPU plug-in) was installed; its version was not recorded and it is not needed for the analysis steps.
