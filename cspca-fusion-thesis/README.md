@@ -13,6 +13,10 @@ The thesis fuses clinical variables with automatically extracted biparametric-MR
 | `data/` | Place the file manifest here (see `data/README.md`) | Appendix I |
 | `run_demo.py`, `RUN_GUIDE.md` | One-command synthetic-data demo; step-by-step guide to the real-data run | |
 
+For the full code explanation, please see the video
+
+https://drive.google.com/file/d/15gVLpxWsjuACJ1kmLujDjV6fKDQB7Our/view?usp=sharing
+
 ## Quick start
 See [`RUN_GUIDE.md`](RUN_GUIDE.md) for the full guide: setup, the demo, the real-data run order, expected values and known caveats.
 ```bash
